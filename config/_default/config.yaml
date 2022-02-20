@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Computational Psychometrics Group # Website name
+title: COMPS Group # Website name
 baseurl: / # Website URL
 copyright: '© {year} COMPS Team' # Footer text, e.g. '© {year} Me'
 
@@ -32,7 +32,7 @@ module:
 ## ADVANCED
 ############################
 
-enableGitInfo: false
+enableGitInfo: true
 summaryLength: 30
 paginate: 10
 enableEmoji: true

@@ -52,7 +52,7 @@ main_menu:
   show_language: false
   show_day_night: true
   show_search: true
-  highlight_active_link: false
+  highlight_active_link: true
 
 # Localization
 
@@ -62,8 +62,8 @@ address_format: en-us
 
 # Site features
 
-highlight: false
-math: false
+highlight: true
+math: true
 diagram: false
 privacy_pack: false
 show_related:
@@ -75,7 +75,7 @@ reading_time: true
 section_pager: false
 sharing: true
 copyright_license:
-  enable: false
+  enable: true
   allow_derivatives: false
   share_alike: true
   allow_commercial: false
